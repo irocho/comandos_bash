@@ -1,13 +1,17 @@
-# Refacer pepe.sh pedindo ó usuario o nome do amiguito:
+#!
+###################################################################
+#
+# Crear directorios, copiar arquivos e interacionar co usuario
+#
+# autor:
+####################################################################
 
-
+# Pedir ó usuario o nome do directorio
 
 # Crear  directorio 
 
-#Copiar todos los archivos de nuestro directorio $HOME al directorio  
+# Pedir ó usuario o nome de dous ficherios
 
-#Mover el directorio 
+# Crear  eses ficheiros dentro do directorio 
 
-#Dar permiso de ejecución a todos los archivos dentro del directorio 
-
-#Quitar permiso de escritura a todos los archivos dentro del directorio
+# Dar permiso de ejecución a todos los archivos dentro del directorio 
