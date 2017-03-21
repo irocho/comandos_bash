@@ -1,15 +1,21 @@
 #!
-#################################
-# 
+########################################################
+#
+# Crear directorios, arquivos, empaquetar e comprimir
+#
 # autor:
-#################################
+########################################################
 
-# Crear un directorio llamado "A" que contenga los archivos "doc1.txt", "doc3.txt" y "doc77.txt".
-mkdir 
-# Crear un directorio llamado "B" que contenga los archivos "doc1.txt", "doc4.txt" y "doc89.txt".
+# Crear un directorio chaamado dirA 
 
-# Listar los nombres de archivo que se encuentran en el directorio "A" pero no en el directorio "B"
+# crear dentro de dirA os arquivos doc1A.txt, doc3A.txt e doc77A.txt
 
-# Listar los nombres de archivo que se encuentran tanto en el directorio "A" como en el directorio "B"
+# Comprobar que os arquivos están dentro do directorio dirA
 
-# Comprimir los directorios "A" y "B" utilizando el algoritmo "gzip" en un único archivo llamado "ab.tar.gz"
+# Crear un directorio chaamado dirB que conteña os arquivos  doc1B.txt, doc2B.txt e doc3B.txt
+
+# Comprobar que os arquivos están dentro do directorio dirB
+
+# Crear un paquete con ambos directorios
+
+# Comprimir o paquete utilizando o algoritmo gzip
