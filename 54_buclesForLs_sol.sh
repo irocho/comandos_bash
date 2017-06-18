@@ -9,6 +9,6 @@
 #
 # Sistema operativo:
 #
-############################################################
+###########################################################
 
-# Mostra unha lista de cores usando un bucle
+# Mostra cun bucle a lista de arquivos que temos nun directorio

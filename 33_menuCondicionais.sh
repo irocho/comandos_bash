@@ -1,16 +1,17 @@
+#!
 ############################################################
 #
 # Título: Menú para que escolla o usuario
 #
 # Nome do autor:
 #
-# Enderezo do blog: 
+# Enderezo do blog:
 #
-# Sistema operativo: 
+# Sistema operativo:
 #
 #############################################################
 
-# Mostrar ó usuario un menú para crear directorio, un ficheiro ou pedir axuda
+# Mostrar ó usuario un menú para que escolla se crear directorio, un ficheiro ou pedir axuda
 
 # Preguntar ó usuario o que quere facer
 
@@ -18,4 +19,4 @@
 
 # se quere crear un ficheiro, preguntarlle o nome
 
-# se quere axuda , preguntarlle o nome do comando
+# se quere axuda, preguntarlle o nome do comando

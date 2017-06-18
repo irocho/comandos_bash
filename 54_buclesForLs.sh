@@ -1,5 +1,5 @@
 #! /bin/bash
-for i in $( ls)
+for i in $(ls)
 do
 	echo  vai... $i
-done 
+done

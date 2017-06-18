@@ -9,6 +9,6 @@
 #
 # Sistema operativo:
 #
-############################################################
+#############################################################
 
-# Mostra unha lista de cores usando un bucle
+# Crea un bucle FOR que mostre tres veces "Boas"

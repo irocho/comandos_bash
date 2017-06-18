@@ -9,6 +9,6 @@
 #
 # Sistema operativo:
 #
-############################################################
+###########################################################
 
-# Mostra unha lista de cores usando un bucle
+# Mostra a lista de números dende 1 ata 3
