@@ -12,4 +12,4 @@ Podedes descargar este repositorio ou ben facer un fork (xa falamos en clase). S
 
 * Os scripts que teñen o nome rematado con xxx_sol.sh son unha proposta de solución. Lembrade non só copiar e pegar, tamén analizádeos un chisquiño.
 
-* Os que teñen número maior ca 100 son un pouco máis complexos.
+* Os que teñen número alto son un pouco máis complexos.
